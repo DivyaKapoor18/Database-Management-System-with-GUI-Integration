@@ -25,8 +25,11 @@ Designed to reduce manual database interaction time by ~40%.
   pip install cx_Oracle
   pip install tk
 
-## Screenshot of The Project:
+## Screenshots of The Project:
 - <img width="297" height="471" alt="Screenshot 2025-10-05 at 1 21 37 PM" src="https://github.com/user-attachments/assets/72629e1b-bed2-4477-aadc-6455cd95f4c6" />
 - <img width="450" height="223" alt="Screenshot 2025-10-05 at 1 22 43 PM" src="https://github.com/user-attachments/assets/60567d38-58ad-43ee-8e77-dfa749dbc7bb" />
 - <img width="458" height="346" alt="Screenshot 2025-10-05 at 1 23 10 PM" src="https://github.com/user-attachments/assets/e7a86211-33c9-4cdd-8373-322f5db7bbd6" />
-- 
+- <img width="391" height="231" alt="Screenshot 2025-10-05 at 1 26 22 PM" src="https://github.com/user-attachments/assets/070ce729-f343-4237-b3d3-eb5ba742f58f" />
+- <img width="469" height="320" alt="Screenshot 2025-10-05 at 1 27 00 PM" src="https://github.com/user-attachments/assets/1c31dc40-2d5c-4b86-b917-8715547d501a" />
+- <img width="456" height="268" alt="Screenshot 2025-10-05 at 1 27 37 PM" src="https://github.com/user-attachments/assets/13423431-b298-45c6-ae96-05c1123883cb" />
+
