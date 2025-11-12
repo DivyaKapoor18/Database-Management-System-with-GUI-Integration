@@ -3,7 +3,6 @@
 A Python-based database management application built with **cx_Oracle** for database connectivity and **Tkinter** for GUI.  
 It supports **CRUD operations**, **predefined & custom queries**, **table creation**, and **real-time updates**.  
 Designed to reduce manual database interaction time by ~40%.
-
 ---
 
 ## Features
