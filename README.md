@@ -13,7 +13,6 @@ Designed to reduce manual database interaction time by ~40%.
 - Range-based queries & joins across multiple tables
 - Summary views for transactions and customer orders
 - Real-time updates and deletion of records
-
 ---
 
 ## Requirements
@@ -23,7 +22,7 @@ Designed to reduce manual database interaction time by ~40%.
   ```bash
   pip install cx_Oracle
   pip install tk
-
+  
 ## Screenshots of The Project:
 - <img width="297" height="471" alt="Screenshot 2025-10-05 at 1 21 37 PM" src="https://github.com/user-attachments/assets/72629e1b-bed2-4477-aadc-6455cd95f4c6" />
 - <img width="450" height="223" alt="Screenshot 2025-10-05 at 1 22 43 PM" src="https://github.com/user-attachments/assets/60567d38-58ad-43ee-8e77-dfa749dbc7bb" />
